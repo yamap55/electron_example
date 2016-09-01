@@ -13,6 +13,12 @@
 -->
   </head>
   <body>
-    <p>Hello World!</p>
+    <div id="container"></div>
+    <script>
+      require("babel-core/register")({
+        presets: ["es2015","stage-0","react"]
+      });
+      require("./App.jsx");
+    </script>
   </body>
 </html>
