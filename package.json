@@ -1,0 +1,19 @@
+{
+  "name": "electron_example",
+  "version": "0.0.0",
+  "description": "electron example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yamap55/electron_example.git"
+  },
+  "author": "yamap_55",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yamap55/electron_example/issues"
+  },
+  "homepage": "https://github.com/yamap55/electron_example"
+}
